@@ -1,2 +1,2 @@
-# jr-blanc0_portfolio
+# jrblanc0_portfolio
 Analytics Portfolio
