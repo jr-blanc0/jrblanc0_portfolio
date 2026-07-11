@@ -27,7 +27,7 @@ I really enjoy transforming messy, raw datasets into clean databases and buildin
 * **Engineered data relationships** by joining and blending separate listings and calendar tables to accurately isolate distinct listing metrics and track year-over-year pacing.
 * **Delivered actionable business insights** by modeling dynamic correlations between pricing, bedroom counts, and geographical zip codes to help hosts optimize regional pricing strategies.
 
-<img src="path_to_your_screenshot.png" width="800" alt="AirBnB Dashboard Screenshot">
+<img src=git_images/airbnbproject.png>
 
 ---
 
