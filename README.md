@@ -10,8 +10,8 @@ Highly analytical and detail-oriented **Aeronautical Engineering Graduate** leve
 
 ## 🛠️ Technical Skills
 * **Data Visualization & Analytics:** Tableau Public, MS Excel (Pivot Tables, Power Query)
-* **Databases & Querying:** SQL (MySQL, PostgreSQL)
-* **Engineering Tools:** Python (Pandas, NumPy), MATLAB
+* **Databases & Querying:** SQL (MySQL)
+* **Engineering Tools:** AutoCAD, Autodesk Inventor
 
 ---
 
@@ -41,12 +41,16 @@ Highly analytical and detail-oriented **Aeronautical Engineering Graduate** leve
 ---
 
 ## 🎓 Education & Certifications
-* **B.S. in Aeronautical Engineering** | [Your University Name], [Year]
-* **[Any Data Analytics Certification, e.g., Google Data Analytics / IBM]** | [Year]
+* **B.S. in Aeronautical Engineering** | [WCC Aeronautical & Technological College, [July 2025]
+* **[Introduction to Data Analysis]** | [July 2026]
+* **[Google AI Professional]** | [June 2026]
+* **[Safety Officer 2 (S02)]** | [February 2026]
 
 ---
 
 ## 📩 Let's Connect!
-* **LinkedIn:** [your-linkedin-profile](#)
-* **Email:** [your-email@example.com]
+* **LinkedIn:** [Jhon Robin Blanco](www.linkedin.com/in/
+jhon-robin-blanco
+)
+* **Email:** [jhonrobinblanco@gmail.com]
 * **Tableau Public:** [your-tableau-public-profile](#)
