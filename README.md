@@ -42,10 +42,10 @@ Highly analytical and detail-oriented **Aeronautical Engineering Graduate** leve
 
 ## 🎓 Education & Certifications
 * **B.S. in Aeronautical Engineering** | WCC Aeronautical & Technological College, July 2025
-* **Introduction to Data Analysis** - Approved by IBM & Coursera| July 2026
-* **Google AI Professional** - Approved by Google & Coursera| June 2026
-* **AI for Data Analysis** - Approved by Google & Coursera| June 2026
-* **Safety Officer 2 (S02)** - Approved by DOLE BOSH Certification| February 2026
+* **Introduction to Data Analysis** - Approved by IBM & Coursera | July 2026
+* **Google AI Professional** - Approved by Google & Coursera | June 2026
+* **AI for Data Analysis** - Approved by Google & Coursera | June 2026
+* **Safety Officer 2 (S02)** - Approved by DOLE BOSH Certification | February 2026
 
 ---
 
