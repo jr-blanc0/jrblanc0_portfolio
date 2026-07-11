@@ -38,7 +38,7 @@ I really enjoy transforming messy, raw datasets into clean databases and buildin
 * **Cleaned and standardized** a raw customer dataset of bike buyers, resolving inconsistencies in demographic fields and engineering nested IF/LOOKUP logic to categorize consumer age segments.
 * **Built a dynamic executive dashboard** using advanced Excel features, pivot tables, and interactive slicers to visually isolate key sales drivers such as income, commute distance, and regional purchase patterns.
 
-<img src="path_to_your_excel_screenshot.png" width="800" alt="Excel Sales Dashboard Screenshot">
+<img src=git_images/excelproject.png>
 
 ---
 
