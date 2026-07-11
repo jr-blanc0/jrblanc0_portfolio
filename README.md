@@ -54,4 +54,4 @@ I really enjoy transforming messy, raw datasets into clean databases and buildin
 ## 📩 Let's Connect!
 * **LinkedIn:** Jhon Robin Blanco (https://www.linkedin.com/in/jr-blanc0)
 * **Email:** jhonrobinblanco@gmail.com
-* **Tableau Public:** [your-tableau-public-profile](#)
+* **Tableau Public:** [your-tableau-public-profile](https://public.tableau.com/app/profile/jhon.robin.blanco/vizzes)
