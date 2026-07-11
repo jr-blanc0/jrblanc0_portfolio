@@ -43,7 +43,7 @@ I really enjoy transforming messy, raw datasets into clean databases and buildin
 ---
 
 ## 🎓 Education & Certifications
-* **B.S. in Aeronautical Engineering** | WCC Aeronautical & Technological College, July 2025
+* **B.S. in Aeronautical Engineering** | WCC Aeronautical & Technological College | July 2025
 * **Introduction to Data Analysis** - Approved by IBM & Coursera | July 2026
 * **Google AI Professional** - Approved by Google & Coursera | June 2026
 * **AI for Data Analysis** - Approved by Google & Coursera | June 2026
