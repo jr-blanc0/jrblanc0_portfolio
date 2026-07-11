@@ -71,7 +71,7 @@ Understanding purchase triggers across distinct demographic segments is vital fo
 
 ---
 
-## 📩 Let's Connect!
+## 📩 About Me
 * **LinkedIn:** Jhon Robin Blanco (https://www.linkedin.com/in/jr-blanc0)
 * **Email:** jhonrobinblanco@gmail.com
 * **Tableau Public:** [jr_blanc0](https://public.tableau.com/app/profile/jhon.robin.blanco/vizzes)
