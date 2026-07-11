@@ -32,7 +32,7 @@ As short-term rental markets grow increasingly competitive, hosts face the compl
 
 * **The Problem:** Property owners often struggle with static pricing models that fail to adjust for seasonal demand dips or hyper-local trends, leading to unoptimized vacancy rates and missed revenue.
 * **Data & Methodology:** Merged and blended two separate tables containing **12,000+ customer records**—a detailed `listings` metadata table and an extensive transactional `calendar` dataset mapping availability. Advanced text and data formatting were applied in Excel before engineering dynamic relationships in Tableau to build geospatial mapping layers and predictive timeline charts.
-* **Key Insights:**
+* **Key Findings:**
   * **Location-Driven Premium:** Average rental prices spike sharply within specific metropolitan zip codes, indicating that hyper-local positioning dictates a higher premium over baseline property types.
   * **Bedroom Scale Disproportions:** Dynamic pricing does not scale linearly; 3-to-4 bedroom listings experience a much higher revenue-per-room elasticity during peak weekends compared to 1-to-2 bedroom alternatives.
   * **Seasonal Availability Pacing:** Revenue tracking reveals significant year-over-year pacing volatility, highlighting key months where hosts should aggressively adjust minimum-stay constraints to offset predictable off-season supply surpluses.
@@ -53,7 +53,7 @@ Understanding purchase triggers across distinct demographic segments is vital fo
 
 * **The Problem:** Marketing teams often rely on broad, unsegmented strategies that waste capital because they lack a consolidated visual framework to pinpoint which distinct customer groups yield the highest conversion rates.
 * **Data & Methodology:** Conducted end-to-end preprocessing on a raw dataset of bike buyers. Used data-cleaning techniques to resolve string inconsistencies (e.g., standardizing values in `Gender` and `Marital Status`), utilized `TRIM` functions to clear trailing spacing errors, and engineered nested `IF` statements to categorize continuous `Age` data into distinct demographic brackets. Grouped and aggregated the clean database using Pivot Tables to feed an interactive, slicer-driven dashboard.
-* **Key Insights:**
+* **Key Findings:**
   * **The Sweet Spot Commute:** Consumers with a commute distance of **0–1 miles** exhibit the highest conversion rates for bike purchases across almost all regions, identifying proximity as a primary purchasing trigger.
   * **Income & Occupation Disparities:** Professional and Skilled Manual segments with an income range between **$40,000 and $80,000** make up the core purchasing audience, suggesting marketing spend should bypass extreme wealth or low-income brackets.
   * **Middle-Age Dominance:** Segmented age brackets clearly illustrate that **"Middle Age" consumers** drive the vast majority of transactions, giving stakeholders a definitive age target for digital and print ad campaigns.
