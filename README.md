@@ -1,7 +1,7 @@
 # jr-blanc0_portfolio
 Analytics Portfolio
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Jhon Robin A. Blanco 👋
 ### Aeronautical Engineer transitioned into Data Analyst
 
 Highly analytical and detail-oriented **Aeronautical Engineering Graduate** leveraging an advanced background in computational logic, multi-variable modeling, and root-cause analysis to solve complex, data-driven business problems. Proficient in transforming raw datasets into actionable executive insights using SQL, Excel, and Tableau.
@@ -41,16 +41,16 @@ Highly analytical and detail-oriented **Aeronautical Engineering Graduate** leve
 ---
 
 ## 🎓 Education & Certifications
-* **B.S. in Aeronautical Engineering** | [WCC Aeronautical & Technological College, [July 2025]
-* **[Introduction to Data Analysis]** | [July 2026]
-* **[Google AI Professional]** | [June 2026]
-* **[Safety Officer 2 (S02)]** | [February 2026]
+* **B.S. in Aeronautical Engineering** | WCC Aeronautical & Technological College, July 2025
+* **Introduction to Data Analysis** | July 2026
+* **Google AI Professional** | June 2026
+* **Safety Officer 2 (S02)** | February 2026
 
 ---
 
 ## 📩 Let's Connect!
-* **LinkedIn:** [Jhon Robin Blanco](www.linkedin.com/in/
+* **LinkedIn:** Jhon Robin Blanco(www.linkedin.com/in/
 jhon-robin-blanco
 )
-* **Email:** [jhonrobinblanco@gmail.com]
+* **Email:** jhonrobinblanco@gmail.com
 * **Tableau Public:** [your-tableau-public-profile](#)
