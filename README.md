@@ -49,8 +49,6 @@ Highly analytical and detail-oriented **Aeronautical Engineering Graduate** leve
 ---
 
 ## 📩 Let's Connect!
-* **LinkedIn:** Jhon Robin Blanco(www.linkedin.com/in/
-jhon-robin-blanco
-)
+* **LinkedIn:** Jhon Robin Blanco (www.linkedin.com/in/jhon-robin-blanco)
 * **Email:** jhonrobinblanco@gmail.com
 * **Tableau Public:** [your-tableau-public-profile](#)
