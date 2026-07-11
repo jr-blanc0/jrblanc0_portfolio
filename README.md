@@ -48,6 +48,16 @@ As short-term rental markets grow increasingly competitive, hosts face the compl
 * **Cleaned and standardized** a raw customer dataset of bike buyers, resolving inconsistencies in demographic fields and engineering nested IF/LOOKUP logic to categorize consumer age segments.
 * **Built a dynamic executive dashboard** using advanced Excel features, pivot tables, and interactive slicers to visually isolate key sales drivers such as income, commute distance, and regional purchase patterns.
 
+#### 📖 Overview
+Understanding purchase triggers across distinct demographic segments is vital for refining localized marketing efforts and product placement. This project focuses on analyzing raw, multi-variable consumer data to uncover the exact profile of individuals most likely to purchase a bicycle. By identifying clear correlations between a customer's commute, income, and family lifestyle, the project delivers an executive dashboard that translates complex demographic data into targeted marketing opportunities.
+
+* **The Problem:** Marketing teams often rely on broad, unsegmented strategies that waste capital because they lack a consolidated visual framework to pinpoint which distinct customer groups yield the highest conversion rates.
+* **Data & Methodology:** Conducted end-to-end preprocessing on a raw dataset of bike buyers. Used rigorous data-cleaning techniques to resolve string inconsistencies (e.g., standardizing values in `Gender` and `Marital Status`), utilized `TRIM` functions to clear trailing spacing errors, and engineered nested `IF` statements to categorize continuous `Age` data into distinct demographic brackets. Grouped and aggregated the clean database using Pivot Tables to feed an interactive, slicer-driven dashboard.
+* **Key Insights:**
+  * **The Sweet Spot Commute:** Consumers with a commute distance of **0–1 miles** exhibit the highest conversion rates for bike purchases across almost all regions, identifying proximity as a primary purchasing trigger.
+  * **Income & Occupation Disparities:** Professional and Skilled Manual segments with an income range between **$40,000 and $80,000** make up the core purchasing audience, suggesting marketing spend should bypass extreme wealth or low-income brackets.
+  * **Middle-Age Dominance:** Segmented age brackets clearly illustrate that **"Middle Age" consumers** drive the vast majority of transactions, giving stakeholders a definitive age target for digital and print ad campaigns.
+
 <img src=git_images/excelproject.png>
 
 ---
