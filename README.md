@@ -21,7 +21,7 @@ I really enjoy transforming messy, raw datasets into clean databases and buildin
 
 ### 1. AirBnB Market Performance Dashboard 
 **Tools Used:** Tableau, MS Excel  
-▶️ **[View Interactive Dashboard on Tableau Public](#)** | 📁 **[Repository Link](#)**
+▶️ **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/AirBnBFullproject_17837979180310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | 📁 **[Repository Link](#)**
 
 * **Designed and developed** an interactive Tableau dashboard analyzing **12,000+ AirBnB listings** to evaluate key market drivers, revenue trends, and seasonal constraints.
 * **Engineered data relationships** by joining and blending separate listings and calendar tables to accurately isolate distinct listing metrics and track year-over-year pacing.
