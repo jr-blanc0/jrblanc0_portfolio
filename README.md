@@ -33,7 +33,7 @@ I really enjoy transforming messy, raw datasets into clean databases and buildin
 
 ### 2. Consumer Demographics & Bike Sales Dashboard
 **Tools Used:** MS Excel (Advanced Formulas, Pivot Tables, Slicers)  
-📁 **[Repository Link](#)**
+📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/c74f7511faca7bf34df09f2b70e2ddca2115ca35/Excel%20Project)**
 
 * **Cleaned and standardized** a raw customer dataset of bike buyers, resolving inconsistencies in demographic fields and engineering nested IF/LOOKUP logic to categorize consumer age segments.
 * **Built a dynamic executive dashboard** using advanced Excel features, pivot tables, and interactive slicers to visually isolate key sales drivers such as income, commute distance, and regional purchase patterns.
