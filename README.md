@@ -27,6 +27,16 @@ I really enjoy transforming messy, raw datasets into clean databases and buildin
 * **Engineered data relationships** by joining and blending separate listings and calendar tables to accurately isolate distinct listing metrics and track year-over-year pacing.
 * **Delivered actionable business insights** by modeling dynamic correlations between pricing, bedroom counts, and geographical zip codes to help hosts optimize regional pricing strategies.
 
+#### 📖 Overview
+As short-term rental markets grow increasingly competitive, hosts face the complex challenge of maximizing occupancy while keeping pricing dynamic. This project analyzes regional market performance to understand how seasonal constraints, property sizes, and geographical locations dictate real estate revenue pacing. By visualizing these multi-variable relationships, this dashboard acts as a strategic optimization tool to help property owners align their listings with peak demand cycles.
+
+* **The Problem:** Property owners often struggle with static pricing models that fail to adjust for seasonal demand dips or hyper-local trends, leading to unoptimized vacancy rates and missed revenue.
+* **Data & Methodology:** Merged and blended two separate tables containing **12,000+ customer records**—a detailed `listings` metadata table and an extensive transactional `calendar` dataset mapping availability. Advanced text and data formatting were applied in Excel before engineering dynamic relationships in Tableau to build geospatial mapping layers and predictive timeline charts.
+* **Key Insights:**
+  * **Location-Driven Premium:** Average rental prices spike sharply within specific metropolitan zip codes, indicating that hyper-local positioning dictates a higher premium over baseline property types.
+  * **Bedroom Scale Disproportions:** Dynamic pricing does not scale linearly; 3-to-4 bedroom listings experience a much higher revenue-per-room elasticity during peak weekends compared to 1-to-2 bedroom alternatives.
+  * **Seasonal Availability Pacing:** Revenue tracking reveals significant year-over-year pacing volatility, highlighting key months where hosts should aggressively adjust minimum-stay constraints to offset predictable off-season supply surpluses.
+
 <img src=git_images/airbnbproject.png>
 
 ---
