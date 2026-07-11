@@ -44,6 +44,7 @@ Highly analytical and detail-oriented **Aeronautical Engineering Graduate** leve
 * **B.S. in Aeronautical Engineering** | WCC Aeronautical & Technological College, July 2025
 * **Introduction to Data Analysis** | July 2026
 * **Google AI Professional** | June 2026
+* **AI for Data Analysis** | June 2026
 * **Safety Officer 2 (S02)** | February 2026
 
 ---
