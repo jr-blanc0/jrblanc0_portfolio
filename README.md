@@ -2,7 +2,7 @@
 Analytics Portfolio
 
 # Hi, I'm Jhon Robin A. Blanco 👋
-### Aeronautical Engineer transitioned into Data Analyst
+### Aeronautical Engineer | Data Analyst
 
 Highly analytical and detail-oriented **Aeronautical Engineering Graduate** leveraging an advanced background in computational logic, multi-variable modeling, and root-cause analysis to solve complex, data-driven business problems. Proficient in transforming raw datasets into actionable executive insights using SQL, Excel, and Tableau.
 
