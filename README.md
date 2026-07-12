@@ -63,7 +63,7 @@ This project features a comprehensive Excel-based data analytics pipeline and in
 ---
 
 ## 🎓 Education & Certifications
-* **B.S. in Aeronautical Engineering** | WCC Aeronautical & Technological College | July 2025
+* **B.S. in Aeronautical Engineering** - WCC Aeronautical & Technological College | July 2025
 * **Introduction to Data Analysis** - Approved by IBM | July 2026
 * **Google AI Professional** - Approved by Google | June 2026
 * **AI for Data Analysis** - Approved by Google | June 2026
