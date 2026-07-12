@@ -23,10 +23,6 @@ I really enjoy transforming messy, raw datasets into clean databases and buildin
 **Tools Used:** Tableau, MS Excel  
 ▶️ **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/AirBnBFullproject_17837979180310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | 📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/c926bd54a89ef9bf5a420cf68df5661c1a552879/AirBnB%20Full%20Project)**
 
-* **Designed and developed** an interactive Tableau dashboard analyzing **12,000+ AirBnB listings** to evaluate key market drivers, revenue trends, and seasonal constraints.
-* **Engineered data relationships** by joining and blending separate listings and calendar tables to accurately isolate distinct listing metrics and track year-over-year pacing.
-* **Delivered actionable business insights** by modeling dynamic correlations between pricing, bedroom counts, and geographical zip codes to help hosts optimize regional pricing strategies.
-
 #### 📖 Overview
 This project delivers an interactive Tableau dashboard designed to analyze local AirBnB market dynamics, providing property investors and hosts with data-driven insights to optimize pricing strategies and maximize ROI. By visualizing the relationships between property size, geographical location, seasonal demand, and overall market volume, this dashboard transforms raw rental data into actionable business intelligence. This project demonstrates my ability to clean complex datasets, design intuitive user experiences (UX/UI), and extract clear, strategic value from raw metrics..
 
