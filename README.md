@@ -51,6 +51,7 @@ This project features a comprehensive Excel-based data analytics pipeline and in
   * **Data Cleaning & Standardization**:
      * Executed Excel’s built-in **Remove Duplicates** functionality to strip out identical data rows, pruning the dataset down to 1,000 unique records.
      * Performed standardizing **Find and Replace** (Ctrl + H) macros to expand short-hand abbreviations into user-friendly classifications (M to Married, S to Single, M to Male, and F to Female).
+     * Created a custom feature "Age Brackets" using nested IF logic to classify customers into clean marketing segments: Adolescent (under 31), Middle Age (31–54), and Old (55+).
 * 💡**Key Findings:**
   * **The Sweet Spot Commute:** Consumers with a commute distance of **0–1 miles** exhibit the highest conversion rates for bike purchases across almost all regions, identifying proximity as a primary purchasing trigger.
   * **Income & Occupation Disparities:** Professional and Skilled Manual segments with an income range between **$40,000 and $80,000** make up the core purchasing audience, suggesting marketing spend should bypass extreme wealth or low-income brackets.
