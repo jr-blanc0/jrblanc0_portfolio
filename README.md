@@ -41,7 +41,7 @@ This project delivers an interactive Tableau dashboard designed to analyze local
 
 ### 2. Consumer Demographics & Bike Sales Dashboard
 **Tools Used:** MS Excel (Advanced Formulas, Pivot Tables, Slicers)  
-📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/c74f7511faca7bf34df09f2b70e2ddca2115ca35/Excel%20Project)**
+📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/d18c98fddc0e2ceae7e01a58380de44696ed9ba9/Excel%20Project)**
 
 #### 📖 Overview
 This project features a comprehensive Excel-based data analytics pipeline and interactive dashboard designed to analyze customer demographics and isolate the key socioeconomic drivers behind bicycle purchases. Utilizing a dataset of 1,000 customers, the goal of this analysis is to help a retail marketing team optimize target campaigns by identifying high-conversion buyer personas. This portfolio piece demonstrates core competencies in data cleaning (standardizing unstructured values, treating duplicates), structural data modeling using nested logical conditions, pivot table aggregation, and executive-level dashboard design using interactive slicers.
