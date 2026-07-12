@@ -6,7 +6,7 @@ Analytics Portfolio
 
 Welcome to my portfolio! I’m an **Aeronautical Engineering Graduate** who loves diving into data to find the stories behind the numbers. My engineering background taught me how to break down complex systems, build multi-variable models, and track down root causes—skills that map perfectly onto solving tough, data-driven business problems. 
 
-I really enjoy transforming messy, raw datasets into clean databases and building interactive, clear dashboards that help people make smarter decisions. Currently, I'm focused on mastering SQL, Excel, Tableau, Power BI, and Python to drive real-world business value. Take a look around my repositories to see some of my work, and feel free to connect!
+I enjoy transforming messy, raw datasets into clean databases and building interactive, clear dashboards that help people make smarter decisions. Currently, I'm focused on mastering SQL, Excel, Tableau, Power BI, and Python to drive real-world business value. Take a look around my repositories to see some of my work, and feel free to connect!
 
 ---
 
@@ -24,7 +24,7 @@ I really enjoy transforming messy, raw datasets into clean databases and buildin
 ▶️ **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/AirBnBFullproject_17837979180310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | 📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/c926bd54a89ef9bf5a420cf68df5661c1a552879/AirBnB%20Full%20Project)**
 
 #### 📖 Overview
-This project delivers an interactive Tableau dashboard designed to analyze local AirBnB market dynamics, providing property investors and hosts with data-driven insights to optimize pricing strategies and maximize ROI. By visualizing the relationships between property size, geographical location, seasonal demand, and overall market volume, this dashboard transforms raw rental data into actionable business intelligence. This project demonstrates my ability to clean complex datasets, design intuitive user experiences (UX/UI), and extract clear, strategic value from raw metrics..
+This project delivers an interactive Tableau dashboard designed to analyze local AirBnB market dynamics, providing property investors and hosts with data-driven insights to optimize pricing strategies and maximize ROI. By visualizing the relationships between property size, geographical location, seasonal demand, and overall market volume, this dashboard transforms raw rental data into actionable business intelligence. This project demonstrates my ability to clean complex datasets, design intuitive user experiences (UX/UI), and extract clear, strategic value from raw data.
 
 * 📊**Data & Methodology:** Merged and blended two separate tables containing **12,000+ customer records**—a detailed `listings` metadata table and an extensive transactional `calendar` dataset mapping availability. Advanced text and data formatting were applied in Excel before engineering dynamic relationships in Tableau to build geospatial mapping layers and predictive timeline charts.
 * 💡**Key Findings:**
