@@ -43,13 +43,14 @@ This project delivers an interactive Tableau dashboard designed to analyze local
 **Tools Used:** MS Excel (Advanced Formulas, Pivot Tables, Slicers)  
 📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/c74f7511faca7bf34df09f2b70e2ddca2115ca35/Excel%20Project)**
 
-* **Cleaned and standardized** a raw customer dataset of bike buyers, resolving inconsistencies in demographic fields and engineering nested IF/LOOKUP logic to categorize consumer age segments.
-* **Built a dynamic executive dashboard** using advanced Excel features, pivot tables, and interactive slicers to visually isolate key sales drivers such as income, commute distance, and regional purchase patterns.
-
 #### 📖 Overview
 This project features a comprehensive Excel-based data analytics pipeline and interactive dashboard designed to analyze customer demographics and isolate the key socioeconomic drivers behind bicycle purchases. Utilizing a dataset of 1,000 customers, the goal of this analysis is to help a retail marketing team optimize target campaigns by identifying high-conversion buyer personas. This portfolio piece demonstrates core competencies in data cleaning (standardizing unstructured values, treating duplicates), structural data modeling using nested logical conditions, pivot table aggregation, and executive-level dashboard design using interactive slicers.
 
-* 📊**Data & Methodology:** Conducted end-to-end preprocessing on a raw dataset of bike buyers. Used data-cleaning techniques to resolve string inconsistencies (e.g., standardizing values in `Gender` and `Marital Status`), utilized `TRIM` functions to clear trailing spacing errors, and engineered nested `IF` statements to categorize continuous `Age` data into distinct demographic brackets. Grouped and aggregated the clean database using Pivot Tables to feed an interactive, slicer-driven dashboard.
+* 📊**Data & Methodology:**
+  * **Data Source**: A dataset containing 1,026 rows mapping structural customer records across 13 demographic and lifestyle variables (e.g., income, children, education, geography, and commute distances).
+  * **Data Cleaning & Standardization**: Isolated the source material from a raw sheet to a dedicated Working Sheet to preserve raw data integrity.
+Executed Excel’s built-in Remove Duplicates functionality to strip out identical data rows, pruning the dataset down to 1,000 unique records.
+Performed standardizing Find and Replace (Ctrl + H) macros to expand short-hand abbreviations into user-friendly classifications (M to Married, S to Single, M to Male, and F to Female).
 * 💡**Key Findings:**
   * **The Sweet Spot Commute:** Consumers with a commute distance of **0–1 miles** exhibit the highest conversion rates for bike purchases across almost all regions, identifying proximity as a primary purchasing trigger.
   * **Income & Occupation Disparities:** Professional and Skilled Manual segments with an income range between **$40,000 and $80,000** make up the core purchasing audience, suggesting marketing spend should bypass extreme wealth or low-income brackets.
