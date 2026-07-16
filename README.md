@@ -19,27 +19,7 @@ I enjoy transforming messy, raw datasets into clean databases and building inter
 
 ## 📊 Featured Personal Projects
 
-### 1. AirBnB Market Performance Dashboard 
-**Tools Used:** Tableau, MS Excel  
-▶️ **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/AirBnBFullproject_17837979180310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | 📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/c926bd54a89ef9bf5a420cf68df5661c1a552879/AirBnB%20Full%20Project)**
-
-#### 📖 Overview
-This project delivers an interactive Tableau dashboard designed to analyze local AirBnB market dynamics, providing property investors and hosts with data-driven insights to optimize pricing strategies and maximize ROI. By visualizing the relationships between property size, geographical location, seasonal demand, and overall market volume, this dashboard transforms raw rental data into actionable business intelligence. This project demonstrates my ability to clean complex datasets, design intuitive user experiences (UX/UI), and extract clear, strategic value from raw data.
-
-* 📊**Data & Methodology:**
-  * **Data Source**: Seattle AirBnB open dataset from Kaggle containing core relational tables mapping property listings, calendar scheduling metrics, and historical user reviews.
-  * **Data Modeling & Joins**: Imported the multi-table Excel workbook structure into Tableau Desktop. Connected the primary listings table (3,600+ physical property rows) to the time-series calendar availability table via an Inner Join, explicitly overriding automated fields to map the relational listing_id to the base table id to enforce relational integrity.
-  * **Visualization Stack**: Tableau Public / Desktop. Designed a multi-view dashboard using automatic layout sizing. The pipeline combines continuous time-series trend lines for full-year macro revenue tracking, coordinate spatial maps using underlying zip code boundaries accompanied by labels, and ranked bar charts evaluating capacity against average pricing thresholds.
-* 💡**Key Findings:**
-  * **Premium Pricing for Scale**: There is a clear linear, upward trend in rental pricing relative to property capacity. While 1-bedroom units average a baseline of **$96.20**, 6-bedroom listings command a premium average of **$584.80**, indicating that larger, group-oriented properties yield significantly higher margins per booking.
-  * **High-Volume vs. High-Value Geographic Zones**: The listing market is heavily dominated by 1-bedroom units (1,811 total listings), yet geographical location dictates premium pricing far more than sheer volume. Zip codes such as **98134** and **98119** emerge as high-value corridors, generating the highest average pricing metrics despite not having the highest concentration of total listings.
-  * **Strong Mid-Year Seasonal Revenue Scaling**: Seasonal demand builds aggressively through the first half of the year. Market revenue climbs rapidly from under **$1,000K** in late January, stabilizing into a sustained peak period between May and September at over **$2,000K**, providing hosts a clear window for optimized surge pricing during summer months.
-
-<img src=git_images/airbnbproject.png>
-
----
-
-### 2. Consumer Demographics & Bike Sales Dashboard
+### 1. Consumer Demographics & Bike Sales Dashboard
 **Tools Used:** MS Excel (Advanced Formulas, Pivot Tables, Slicers)  
 📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/d18c98fddc0e2ceae7e01a58380de44696ed9ba9/Excel%20Project)**
 
@@ -60,7 +40,25 @@ This project features a comprehensive Excel-based data analytics pipeline and in
 <img src=git_images/excelproject.png>
 
 ---
+### 2. AirBnB Market Performance Dashboard 
+**Tools Used:** Tableau, MS Excel  
+▶️ **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/AirBnBFullproject_17837979180310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | 📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/c926bd54a89ef9bf5a420cf68df5661c1a552879/AirBnB%20Full%20Project)**
 
+#### 📖 Overview
+This project delivers an interactive Tableau dashboard designed to analyze local AirBnB market dynamics, providing property investors and hosts with data-driven insights to optimize pricing strategies and maximize ROI. By visualizing the relationships between property size, geographical location, seasonal demand, and overall market volume, this dashboard transforms raw rental data into actionable business intelligence. This project demonstrates my ability to clean complex datasets, design intuitive user experiences (UX/UI), and extract clear, strategic value from raw data.
+
+* 📊**Data & Methodology:**
+  * **Data Source**: Seattle AirBnB open dataset from Kaggle containing core relational tables mapping property listings, calendar scheduling metrics, and historical user reviews.
+  * **Data Modeling & Joins**: Imported the multi-table Excel workbook structure into Tableau Desktop. Connected the primary listings table (3,600+ physical property rows) to the time-series calendar availability table via an Inner Join, explicitly overriding automated fields to map the relational listing_id to the base table id to enforce relational integrity.
+  * **Visualization Stack**: Tableau Public / Desktop. Designed a multi-view dashboard using automatic layout sizing. The pipeline combines continuous time-series trend lines for full-year macro revenue tracking, coordinate spatial maps using underlying zip code boundaries accompanied by labels, and ranked bar charts evaluating capacity against average pricing thresholds.
+* 💡**Key Findings:**
+  * **Premium Pricing for Scale**: There is a clear linear, upward trend in rental pricing relative to property capacity. While 1-bedroom units average a baseline of **$96.20**, 6-bedroom listings command a premium average of **$584.80**, indicating that larger, group-oriented properties yield significantly higher margins per booking.
+  * **High-Volume vs. High-Value Geographic Zones**: The listing market is heavily dominated by 1-bedroom units (1,811 total listings), yet geographical location dictates premium pricing far more than sheer volume. Zip codes such as **98134** and **98119** emerge as high-value corridors, generating the highest average pricing metrics despite not having the highest concentration of total listings.
+  * **Strong Mid-Year Seasonal Revenue Scaling**: Seasonal demand builds aggressively through the first half of the year. Market revenue climbs rapidly from under **$1,000K** in late January, stabilizing into a sustained peak period between May and September at over **$2,000K**, providing hosts a clear window for optimized surge pricing during summer months.
+
+<img src=git_images/airbnbproject.png>
+
+---
 ## 🎓 Education & Certifications
 * **B.S. in Aeronautical Engineering** - WCC Aeronautical & Technological College | July 2025
 * **Introduction to Data Analysis** - Approved by IBM | July 2026
