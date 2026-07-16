@@ -56,7 +56,7 @@ This project features a comprehensive Excel-based data analytics pipeline and in
 * 💡**Key Findings:**
   * **Commute Proximity**: Consumers with a commute distance of **0–1 miles** exhibit the highest conversion rates for bike purchases across almost all regions, identifying proximity as a primary purchasing trigger.
   * **The Income Bracket Premium**: Higher disposable income strongly correlates with a willingness to purchase. Across both male and female demographics, buyers had a higher average income profile than non-buyers. Notably, **Males who purchased bikes commanded the highest income tier, averaging $60,124**, compared to non-buyers at $56,208.
-  * **The Middle-Age Sweet Spot**:People in the **Middle Age** group (31-54 years) purchased 4 times more bikes as compared to the Adolescent and Old age groups.
+  * **The Middle-Age Sweet Spot**: People in the **Middle Age** group (31-54 years) purchased 4 times more bikes as compared to the Adolescent and Old age groups.
 <img src=git_images/excelproject.png>
 
 ---
