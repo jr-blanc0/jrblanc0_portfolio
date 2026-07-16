@@ -26,14 +26,14 @@ I enjoy transforming messy, raw datasets into clean databases and building inter
 #### 📖 Overview
 This project features a comprehensive Excel-based data analytics pipeline and interactive dashboard designed to analyze customer demographics and isolate the key socioeconomic drivers behind bicycle purchases. Utilizing a dataset of 1,000 customers, the goal of this analysis is to help a retail marketing team optimize target campaigns by identifying high-conversion buyer personas. This portfolio piece demonstrates core competencies in data cleaning (standardizing unstructured values, treating duplicates), structural data modeling using nested logical conditions, pivot table aggregation, and executive-level dashboard design using interactive slicers.
 
-* 📊**Data & Methodology:**
+📊**Data & Methodology:**
   * **Data Source**: A dataset containing 1,026 rows mapping structural customer records across 13 demographic and lifestyle variables (e.g., income, children, education, geography, and commute distances).
   * **Data Cleaning & Standardization**:
      * Executed Excel’s built-in **Remove Duplicates** functionality to strip out identical data rows, pruning the dataset down to 1,000 unique records.
      * Performed standardizing **Find and Replace** **(Ctrl + H)** macros to expand short-hand abbreviations into user-friendly classifications (**M** to **Married**, **S** to **Single**, **M** to **Male**, and **F** to **Female**).
      * Created a custom feature **"Age Brackets"** using nested **IF** logic to classify customers into clean marketing segments: **Adolescent** (under 31), **Middle Age** (31–54), and **Old** (55+).
      * Leveraged **Pivot Tables** for multi-dimensional aggregations, **Pivot Charts** for structural distribution, and interactive **Slicers** (Region, Education, and Marital Status) for dynamic dashboard cross-filtering.
-* 💡**Key Findings:**
+💡**Key Findings:**
  * **Commute Proximity**: Consumers with a commute distance of **0–1 miles** exhibit the highest conversion rates for bike purchases across almost all regions, identifying proximity as a primary purchasing trigger.
  * **The Income Bracket Premium**: Higher disposable income strongly correlates with a willingness to purchase. Across both male and female demographics, buyers had a higher average income profile than non-buyers. Notably, **Males who purchased bikes commanded the highest income tier, averaging $60,124**, compared to non-buyers at $56,208.
  * **The Middle-Age Sweet Spot**: People in the **Middle Age** group (31-54 years) purchased 4 times more bikes as compared to the Adolescent and Old age groups.
@@ -47,11 +47,11 @@ This project features a comprehensive Excel-based data analytics pipeline and in
 #### 📖 Overview
 This project delivers an interactive Tableau dashboard designed to analyze local AirBnB market dynamics, providing property investors and hosts with data-driven insights to optimize pricing strategies and maximize ROI. By visualizing the relationships between property size, geographical location, seasonal demand, and overall market volume, this dashboard transforms raw rental data into actionable business intelligence. This project demonstrates my ability to clean complex datasets, design intuitive user experiences (UX/UI), and extract clear, strategic value from raw data.
 
-* 📊**Data & Methodology:**
+📊**Data & Methodology:**
   * **Data Source**: Seattle AirBnB open dataset from Kaggle containing core relational tables mapping property listings, calendar scheduling metrics, and historical user reviews.
   * **Data Modeling & Joins**: Imported the multi-table Excel workbook structure into Tableau Desktop. Connected the primary listings table (3,600+ physical property rows) to the time-series calendar availability table via an Inner Join, explicitly overriding automated fields to map the relational listing_id to the base table id to enforce relational integrity.
   * **Visualization Stack**: Tableau Public / Desktop. Designed a multi-view dashboard using automatic layout sizing. The pipeline combines continuous time-series trend lines for full-year macro revenue tracking, coordinate spatial maps using underlying zip code boundaries accompanied by labels, and ranked bar charts evaluating capacity against average pricing thresholds.
-* 💡**Key Findings:**
+💡**Key Findings:**
   * **Premium Pricing for Scale**: There is a clear linear, upward trend in rental pricing relative to property capacity. While 1-bedroom units average a baseline of **$96.20**, 6-bedroom listings command a premium average of **$584.80**, indicating that larger, group-oriented properties yield significantly higher margins per booking.
   * **High-Volume vs. High-Value Geographic Zones**: The listing market is heavily dominated by 1-bedroom units (1,811 total listings), yet geographical location dictates premium pricing far more than sheer volume. Zip codes such as **98134** and **98119** emerge as high-value corridors, generating the highest average pricing metrics despite not having the highest concentration of total listings.
   * **Strong Mid-Year Seasonal Revenue Scaling**: Seasonal demand builds aggressively through the first half of the year. Market revenue climbs rapidly from under **$1,000K** in late January, stabilizing into a sustained peak period between May and September at over **$2,000K**, providing hosts a clear window for optimized surge pricing during summer months.
