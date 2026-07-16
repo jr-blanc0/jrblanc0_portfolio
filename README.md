@@ -56,8 +56,7 @@ This project features a comprehensive Excel-based data analytics pipeline and in
 * 💡**Key Findings:**
   * **The Sweet Spot Commute:** Consumers with a commute distance of **0–1 miles** exhibit the highest conversion rates for bike purchases across almost all regions, identifying proximity as a primary purchasing trigger.
   * **Income & Occupation Disparities:** Professional and Skilled Manual segments with an income range between **$40,000 and $80,000** make up the core purchasing audience, suggesting marketing spend should bypass extreme wealth or low-income brackets.
-  * **Middle-Age Dominance:** Segmented age brackets clearly illustrate that **"Middle Age" consumers** drive the vast majority of transactions, giving stakeholders a definitive age target for digital and print ad campaigns.
-
+  * **Middle-Age Dominance:** People in the Middle Age group (31-54 years) purchased 4 times more bikes as compared to the Adolescent and Old age groups.
 <img src=git_images/excelproject.png>
 
 ---
