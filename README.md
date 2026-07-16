@@ -54,9 +54,9 @@ This project features a comprehensive Excel-based data analytics pipeline and in
      * Created a custom feature **"Age Brackets"** using nested **IF** logic to classify customers into clean marketing segments: **Adolescent** (under 31), **Middle Age** (31–54), and **Old** (55+).
      * Leveraged **Pivot Tables** for multi-dimensional aggregations, **Pivot Charts** for structural distribution, and interactive **Slicers** (Region, Education, and Marital Status) for dynamic dashboard cross-filtering.
 * 💡**Key Findings:**
-  * ✅Consumers with a commute distance of **0–1 miles** exhibit the highest conversion rates for bike purchases across almost all regions, identifying proximity as a primary purchasing trigger.
-  * ✅The maximum average income of Males is $60,124. So, they purchased bikes more as compared to females who got 7% less average income than males.
-  * ✅People in the Middle Age group (31-54 years) purchased 4 times more bikes as compared to the Adolescent and Old age groups.
+  * **Commute Proximity**: Consumers with a commute distance of **0–1 miles** exhibit the highest conversion rates for bike purchases across almost all regions, identifying proximity as a primary purchasing trigger.
+  * **The Income Bracket Premium**: Higher disposable income strongly correlates with a willingness to purchase. Across both male and female demographics, buyers had a higher average income profile than non-buyers. Notably, Males who purchased bikes commanded the highest income tier, averaging $60,124, compared to non-buyers at $56,208.
+  * **The Middle-Age Sweet Spot**:People in the Middle Age group (31-54 years) purchased 4 times more bikes as compared to the Adolescent and Old age groups.
 <img src=git_images/excelproject.png>
 
 ---
