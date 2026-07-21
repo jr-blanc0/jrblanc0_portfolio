@@ -48,7 +48,7 @@ This project features a comprehensive Excel-based data analytics pipeline and in
 #### 📖 Overview
 This project delivers an interactive Tableau dashboard designed to analyze local AirBnB market dynamics, providing property investors and hosts with data-driven insights to optimize pricing strategies and maximize ROI. By visualizing the relationships between property size, geographical location, seasonal demand, and overall market volume, this dashboard transforms raw rental data into actionable business intelligence. This project demonstrates my ability to clean complex datasets, design intuitive user experiences (UX/UI), and extract clear, strategic value from raw data.
 
-*📊**Data & Methodology:**
+* 📊**Data & Methodology:**
   * **Data Source**: Seattle AirBnB open dataset from Kaggle containing core relational tables mapping property listings, calendar scheduling metrics, and historical user reviews.
   * **Data Modeling & Joins**: Imported the multi-table Excel workbook structure into Tableau Desktop. Connected the primary listings table (3,600+ physical property rows) to the time-series calendar availability table via an Inner Join, explicitly overriding automated fields to map the relational listing_id to the base table id to enforce relational integrity.
   * **Visualization Stack**: Tableau Public / Desktop. Designed a multi-view dashboard using automatic layout sizing. The pipeline combines continuous time-series trend lines for full-year macro revenue tracking, coordinate spatial maps using underlying zip code boundaries accompanied by labels, and ranked bar charts evaluating capacity against average pricing thresholds.
@@ -62,9 +62,10 @@ This project delivers an interactive Tableau dashboard designed to analyze local
 ---
 ## 🎓 Education & Certifications
 * **B.S. in Aeronautical Engineering** - WCC Aeronautical & Technological College | July 2025
-* **Introduction to Data Analysis** - Approved by IBM | July 2026
-* **Google AI Professional** - Approved by Google | June 2026
-* **AI for Data Analysis** - Approved by Google | June 2026
+* **Excel Basics for Data Analysis** - IBM Certitification | July 2026
+* **Introduction to Data Analysis** - IBM Certification | July 2026
+* **Google AI Professional** - Google Certification | June 2026
+* **AI for Data Analysis** - Google Certification | June 2026
 * **Safety Officer 2 (SO2)** - Approved by DOLE BOSH Certification | February 2026
 
 ---
