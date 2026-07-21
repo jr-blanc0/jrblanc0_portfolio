@@ -65,7 +65,7 @@ This project delivers an interactive Tableau dashboard designed to analyze local
 * **Excel Basics for Data Analysis** - IBM Certitification | July 2026
 * **Introduction to Data Analysis** - IBM Certification | July 2026
 * **Google AI Professional** - Google Certification | June 2026
-* **AI for Data Analysis** - Google Certification | June 2026
+* **AI for Data Analytics** - Google Certification | June 2026
 * **Safety Officer 2 (SO2)** - Approved by DOLE BOSH Certification | February 2026
 
 ---
