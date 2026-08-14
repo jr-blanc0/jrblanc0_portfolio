@@ -12,8 +12,8 @@ I integrate the technical precision of aeronautical engineering with advanced da
 ---
 
 ## 🛠️ Technical Skills
-* **Data Visualization & Analytics:** Tableau Public, MS Excel (Pivot Tables, Power Query)
-* **Databases & Querying:** SQL (MySQL)
+* **Data Visualization & Analytics:** MS Excel (Pivot Tables, Conditional Formatting), Tableau Public
+* **Databases & Querying:** SQL (MySQL, BigQuery)
 * **Engineering Tools:** AutoCAD, Autodesk Inventor
 
 ---
