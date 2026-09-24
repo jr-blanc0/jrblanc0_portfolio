@@ -21,8 +21,7 @@ I integrate the technical precision of aeronautical engineering with advanced da
 ## 📊 Featured Personal Projects
 
 ### 1. Consumer Demographics & Bike Sales Dashboard
-**Tools Used:** MS Excel (Advanced Formulas, Pivot Tables, Slicers)  
-📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/d18c98fddc0e2ceae7e01a58380de44696ed9ba9/Excel%20Project)**
+**Tools Used:** MS Excel (Advanced Formulas, Pivot Tables, Slicers)  📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/d18c98fddc0e2ceae7e01a58380de44696ed9ba9/Excel%20Project)**
 
 #### 📖 Overview
 This project features a comprehensive Excel-based data analytics pipeline and interactive dashboard designed to analyze customer demographics and isolate the key socioeconomic drivers behind bicycle purchases. Utilizing a dataset of 1,000 customers, the goal of this analysis is to help a retail marketing team optimize target campaigns by identifying high-conversion buyer personas. This portfolio piece demonstrates core competencies in data cleaning (standardizing unstructured values, treating duplicates), structural data modeling using nested logical conditions, pivot table aggregation, and executive-level dashboard design using interactive slicers.
