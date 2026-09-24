@@ -27,17 +27,14 @@ I integrate the technical precision of aeronautical engineering with advanced da
 #### 📖 Overview
 This project features a comprehensive Excel-based data analytics pipeline and interactive dashboard designed to analyze customer demographics and isolate the key socioeconomic drivers behind bicycle purchases. Utilizing a dataset of 1,000 customers, the goal of this analysis is to help a retail marketing team optimize target campaigns by identifying high-conversion buyer personas. This portfolio piece demonstrates core competencies in data cleaning (standardizing unstructured values, treating duplicates), structural data modeling using nested logical conditions, pivot table aggregation, and executive-level dashboard design using interactive slicers.
 
-<img src=git_images/excelproject.png> <img src=git_images/bike-excelproject2.png> <img src=git_images/bike-excelproject3.png>
+<img src=git_images/excelproject.png> <img src=git_images/bike-excelproject3.png>
 
 ---
-### 2. AirBnB Market Performance Dashboard 
+### 2. Check out my Tableau Public
 **Tools Used:** Tableau, MS Excel  
 ▶️ **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/AirBnBFullproject_17837979180310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | 📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/c926bd54a89ef9bf5a420cf68df5661c1a552879/AirBnB%20Full%20Project)**
 
-#### 📖 Overview
-This project delivers an interactive Tableau dashboard designed to analyze local AirBnB market dynamics, providing property investors and hosts with data-driven insights to optimize pricing strategies and maximize ROI. By visualizing the relationships between property size, geographical location, seasonal demand, and overall market volume, this dashboard transforms raw rental data into actionable business intelligence. This project demonstrates my ability to clean complex datasets, design intuitive user experiences (UX/UI), and extract clear, strategic value from raw data.
-
-<img src=git_images/airbnbproject.png>
+<img width="1116" height="841" alt="image" src="https://github.com/user-attachments/assets/c3649089-b29b-4b08-b3a2-d50c62cfafc5" />
 
 ---
 ## 🎓 Education & Certifications
