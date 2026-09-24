@@ -31,7 +31,7 @@ This project features a comprehensive Excel-based data analytics pipeline and in
 ---
 ### 2. Check out my Tableau Public
 **Tools Used:** Tableau, MS Excel  
-▶️ **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/jhon.robin.blanco/vizzes)** | 📁 **[Repository Link](https://github.com/jr-blanc0/jrblanc0_portfolio/tree/c926bd54a89ef9bf5a420cf68df5661c1a552879/AirBnB%20Full%20Project)**
+▶️ **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/jhon.robin.blanco/vizzes)**
 
 <img width="1116" height="841" alt="image" src="https://github.com/user-attachments/assets/c3649089-b29b-4b08-b3a2-d50c62cfafc5" />
 
