@@ -2,7 +2,7 @@
 Analytics Portfolio
 
 # Hi, I'm Jhon Robin A. Blanco 👋
-### Aeronautical Engineer | Data Analyst
+### Aeronautical Engineer | Data Analyst & Data Specialist
 
 Welcome to my portfolio! I’m an **Aeronautical Engineering Graduate** who loves diving into data to find the stories behind the numbers. My engineering background taught me how to break down complex systems, build multi-variable models, and track down root causes—skills that map perfectly onto solving tough, data-driven business problems. 
 
