@@ -40,9 +40,8 @@ This project features a comprehensive Excel-based data analytics pipeline and in
 ## 🎓 Education & Certifications
 * **B.S. in Aeronautical Engineering** - WCC Aeronautical & Technological College | July 2025
 * **Excel Basics for Data Analysis** - IBM Certitification | July 2026
-* **Introduction to Data Analytics** - IBM Certification | July 2026
-* **Google AI Professional** - Google Certification | June 2026
 * **Financial Markets** - Yale University | September 2026
+* **Google AI Professional** - Google Certification | June 2026
 * **Basic Occupational Safety and Health for Safety Officer 2 (BOSH SO2)** – Engineering Insight Hub | 2026
 
 ---
