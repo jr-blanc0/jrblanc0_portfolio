@@ -27,7 +27,7 @@ I integrate the technical precision of aeronautical engineering with advanced da
 #### 📖 Overview
 This project features a comprehensive Excel-based data analytics pipeline and interactive dashboard designed to analyze customer demographics and isolate the key socioeconomic drivers behind bicycle purchases. Utilizing a dataset of 1,000 customers, the goal of this analysis is to help a retail marketing team optimize target campaigns by identifying high-conversion buyer personas. This portfolio piece demonstrates core competencies in data cleaning (standardizing unstructured values, treating duplicates), structural data modeling using nested logical conditions, pivot table aggregation, and executive-level dashboard design using interactive slicers.
 
-<img src=git_images/excelproject.png> <img src=git_images/bike-excelproject3.png>
+<img src=git_images/excelproject.png>
 
 ---
 ### 2. Check out my Tableau Public
