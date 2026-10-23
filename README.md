@@ -47,7 +47,7 @@ This project features a comprehensive Excel-based data analytics pipeline and in
 
 ## 📩 About Me
 * **LinkedIn:** Jhon Robin A. Blanco (https://www.linkedin.com/in/jr-blanc0)
-* **Email:** jhonrobinblanco@gmail.com
+* **Email:** jrobin.blanco@gmail.com
 * **Tableau Public:** [jr_blanc0](https://public.tableau.com/app/profile/jhon.robin.blanco/vizzes)
 
 If you found this project useful, give it a ⭐on GitHub
