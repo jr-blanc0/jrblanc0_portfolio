@@ -38,7 +38,7 @@ This project features a comprehensive Excel-based data analytics pipeline and in
 ---
 ## 🎓 Education & Certifications
 * **B.S. in Aeronautical Engineering** - WCC Aeronautical & Technological College | July 2025
-* [**Google Data Analytics Professional**](https://www.coursera.org/account/accomplishments/professional-cert/UILL4IBONL80) - Coursera | Oct 9, 2026
+* [**Google Data Analytics Professional**](https://www.coursera.org/account/accomplishments/professional-cert/UILL4IBONL80) - Coursera | Oct 2026
 * [**Google AI Professional**](https://www.coursera.org/account/accomplishments/professional-cert/IUCDAFLFWEA9) - Coursera | June 2026
 * [**Excel Basics for Data Analysis**](https://www.coursera.org/account/accomplishments/verify/SRR55G5HFE5Q) - IBM (Coursera) | July 2026
 * [**Financial Markets**](https://www.coursera.org/account/accomplishments/verify/397V56BH4KQ0) - Yale University (Coursera) | September 2026
